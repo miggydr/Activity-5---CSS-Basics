@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+
+.hero_text{
+    text-align: center;
+    background-color: orange;
+    padding: 50px;      
+}
+.poppins_semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.poppins_thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+header{
+    padding: 50px;
+}
+
+
+main{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    line-height: 20px;
+
+}
+a{ 
+    text-decoration: none;
+    color: black !important;
+    font-size: 20px;
+}
+b{
+    font-size: 15px;
+}
+div{
+    padding: 20px;
+}
+footer{
+    font-size: 10px;
+}
+    
